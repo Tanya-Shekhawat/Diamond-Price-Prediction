@@ -1,0 +1,7 @@
+1. Create a project folder
+2. Make a new venv 
+3. Make setup.py 
+4. run stepup.py using 'pyton setup.py install' 
+5. u can use -e . in the requirements file and run 'pip install -r requirements.txt' also 
+6. Connect to github 
+7. make gitingore file before pushing  

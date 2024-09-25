@@ -1,0 +1,3 @@
+pandas
+numpy
+-e . # this will trigure the setup.py 
