@@ -163,4 +163,5 @@ cython_debug/
 
 
 # personal files 
-steps.txt 
+Step.txt
+# steps.txt 
